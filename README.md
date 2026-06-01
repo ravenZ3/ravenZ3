@@ -2,11 +2,10 @@
 
 ML engineer working on things that matter and a few that probably don't.
 
-Currently building **Procuity** at Stryker, a clinical ML pipeline for pressure injury prevention. Side project is **Pixelflow**, a node-based AI image editor using hybrid CLIP + color statistics loss. Trying to get it onto an arxiv preprint trajectory. Feedback from anyone who has navigated SIGGRAPH/CVPR welcome.
-
-Right now learning BiLSTM-CRF sequence labeling, EEG biomarker analysis for BCI, and grinding Codeforces.
-
-I think Feynman and Bruce Lee are the same person. The guitar is load-bearing.
+- building **Procuity** at Stryker, a clinical ML pipeline for pressure injury prevention
+- building **Pixelflow**, a node-based AI image editor with hybrid CLIP + color statistics loss — pushing toward an arxiv preprint, feedback from anyone who has done SIGGRAPH/CVPR welcome
+- learning BiLSTM-CRF sequence labeling, EEG biomarker analysis for BCI, grinding Codeforces
+- Feynman and Bruce Lee are the same person. the guitar is load-bearing.
 
 ---
 
@@ -28,6 +27,3 @@ I think Feynman and Bruce Lee are the same person. The guitar is load-bearing.
 
 ![](https://streak-stats.demolab.com/?user=ravenZ3&theme=dark&hide_border=false)
 
----
-
-[![](https://komarev.com/ghpvc/?username=ravenZ3&color=0)](https://visitcount.itsvg.in)
