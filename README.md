@@ -5,7 +5,7 @@ ML engineer working on things that matter and a few that probably don't.
 - building **Procuity** at Stryker, a clinical ML pipeline for pressure injury prevention
 - building **Pixelflow**, a node-based AI image editor with hybrid CLIP + color statistics loss — pushing toward an arxiv preprint, feedback from anyone who has done SIGGRAPH/CVPR welcome
 - learning BiLSTM-CRF sequence labeling, EEG biomarker analysis for BCI, grinding Codeforces
-- Feynman and Bruce Lee are the same person. the guitar is load-bearing.
+- I maintain a personal identity tracking system in org-mode benchmarked against Chris Hadfield. the guitar is load-bearing.
 
 ---
 
