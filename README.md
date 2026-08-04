@@ -1,11 +1,16 @@
-# ramjan khandelwal
+# Ramjan Khandelwal
 
-ML engineer working on things that matter and a few that probably don't.
+ML Engineer interested in agent systems, machine learning infrastructure, and building things from first principles.
 
-- building **Procuity** at Stryker, a clinical ML pipeline for pressure injury prevention
-- building **Pixelflow**, a node-based AI image editor with hybrid CLIP + color statistics loss — pushing toward an arxiv preprint, feedback from anyone who has done SIGGRAPH/CVPR welcome
-- learning BiLSTM-CRF sequence labeling, EEG biomarker analysis for BCI, grinding Codeforces
-- I maintain a personal identity tracking system in org-mode benchmarked against Chris Hadfield. the guitar is load-bearing.
+Currently building **agentic-rag-eval-harness**, an evaluation and regression testing framework for LangGraph agents with trajectory scoring, RAGAS evaluation, LLM-as-a-judge, and CI/CD integration.
+
+At **Stryker**, I work on the iOS / Smart Automation team building on-device AI with CoreML and VisionOS. I also contribute to an agentic multi-agent testing platform for functional, security, and Python code validation.
+
+Previously built **Procuity**, a clinical ML pipeline for pressure injury prevention using sensor-based movement classification with an ensemble of MLP, LSTM, CNN1D, and CatBoost models.
+
+Built **Pixelflow**, a node-based AI image editor exploring hybrid CLIP and color-statistics optimization. Although I paused the research direction, it remains one of my favorite projects.
+
+Currently building **nanotorch**, a minimal deep learning framework implementing tensors, autograd, neural network primitives, FlashAttention, and CUDA kernels from scratch.
 
 ---
 
